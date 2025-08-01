@@ -1,9 +1,9 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Matthew 
 <a href="www.linkedin.com/in/matthew-henderson-766720312"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an Electrical Engineering grad from Stellenbosch University, South Africa. I have a passion for embedded systems and IoT, like my final year PocketQube satellite antenna deployment system (ADS) and a tilt-monitoring device which I am developing as part of my mentorship with Muirlenium Tech. I thrive in collaborative, fast-paced environments. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
