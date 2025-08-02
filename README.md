@@ -1,5 +1,5 @@
 # Hello, I'm Matthew 
-<a href="www.linkedin.com/in/matthew-scott-henderson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matthew-scott-henderson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm an Electrical Engineering grad from Stellenbosch University, South Africa. I have a passion for embedded systems and IoT, like my final year PocketQube satellite antenna deployment system (ADS) and a tilt-monitoring device for power drills which I am developing as part of my mentorship with Muirlenium Tech. I thrive in collaborative, fast-paced environments. 
 
