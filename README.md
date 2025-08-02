@@ -11,12 +11,12 @@ My path in electrical engineering has ignited a passion for embedded systems and
 
 | Skill                                              | Associated Project         |
 |----------------------------------------------------|----------------------------|
-| Schematic Design and PCB Layout (Altium and KiCAD) | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>, <a href="https://google.com">Tilt Monitor</a>|
-| Circuit Design                                     | <a href="https://google.com">PQ ADS</a>, <a href="https://google.com">Tilt Monitor</a>|
-| C++                                                | <a href="https://google.com">PQ ADS</a>, <a href="https://google.com">Tilt Monitor</a>|
-| 3D Modeling                                        | <a href="https://google.com">PQ ADS</a>|
-| 3D Printing                                        | <a href="https://google.com">PQ ADS</a>|
-| Problem Solving                                    | <a href="https://google.com">PQ ADS</a>, <a href="https://google.com">Tilt Monitor</a>|
+| Schematic Design and PCB Layout (Altium and KiCAD) | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>, <a href="https://github.com/MattH0220/Tilt-Monitor">Tilt Monitor</a>|
+| Circuit Design                                     | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>, <a href="https://github.com/MattH0220/Tilt-Monitor">Tilt Monitor</a>|
+| C++                                                | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>, <a href="https://github.com/MattH0220/Tilt-Monitor">Tilt Monitor</a>|
+| 3D Modeling                                        | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>|
+| 3D Printing                                        | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>|
+| Problem Solving                                    | <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>, <a href="https://github.com/MattH0220/Tilt-Monitor">Tilt Monitor</a>|
 | Communication Skills                               |                    |
 | Interpersonal Skills                               |                    |
 | Leadership                                         |                    |
@@ -60,4 +60,4 @@ My path in electrical engineering has ignited a passion for embedded systems and
 
 ## Projects
 - <a href="https://github.com/MattH0220/PQ-ADS">PQ ADS</a>
-- Tilt Monitor
+- <a href="https://github.com/MattH0220/Tilt-Monitor">Tilt Monitor</a>
